@@ -1,0 +1,102 @@
+header{
+  width: 90;
+  height: 45px;
+  background-color: brown;
+}
+body{
+  font-family: Verdana;
+  font-size: 18px;
+}
+table{
+  border-collapse: collapse;
+  width: 800px;
+}
+td{
+  padding: 10px 5px;
+}
+th{
+  padding: 10px 5px;
+  background-color: blue;
+}
+#special{
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+}
+#zeventien{
+  color: darkblue;
+}
+#achttien{
+  color: yellow;
+}
+#negentien{
+  color: #FFDDE1;
+}
+#twintig{
+  color: #9f1ca1;
+}
+#eenentwintig{
+  color: #F0CB35;
+}
+#tweeentwintig{
+  color: #45b255;
+}
+#drieentwintig{
+  color: #F15F79;
+}
+#vierentwintig{
+  color: #fc525a;
+}
+#een{
+  background: linear-gradient(to right, #DBD65C, #5614B0);
+}
+#twee{
+    background: linear-gradient(to right, #4da0b0, #d39d38);
+}
+#drie{
+    background: linear-gradient(to right, #5a3f37, #2c7744);
+}
+#vier{
+   background: linear-gradient(to right, #2980b9, #2c3e50);
+ }
+#vijf{
+  background: linear-gradient(to right, #834d9b, #d04ed6);
+}
+#zes{
+  background: linear-gradient(to right, #000000, #434343);
+}
+#zeven{
+  background: linear-gradient(to right, #4ca1af, #c4e0e5);
+}
+#acht{
+  background: linear-gradient(to right, #ba5370, #f4e2d8);
+}
+#negen{
+  background: linear-gradient(to right, #ff4b1f, #ff9068);
+}
+#tien{
+  background: linear-gradient(to right, #2196f3, #f44336);
+}
+#elf{
+  background: linear-gradient(to right, #00d2ff, #928dab);
+}
+#twalf{
+  background: linear-gradient(to right, #0b486b, #f56217);
+}
+#dertien{
+  background: linear-gradient(to right, #e96443, #904e95);
+}
+#viertien{
+  background: linear-gradient(to right, #2c3e50, #fd746c);
+}
+#vijftien{
+  background: linear-gradient(to right, #f79d00, #64f38c);
+}
+#zestien{
+  background: linear-gradient(to right, #fceabb, #f8b500);
+}
+footer{
+  width: 100%;
+  min-height: 60px;
+  background-color: black;
+}
